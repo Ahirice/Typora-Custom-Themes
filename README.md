@@ -1,6 +1,6 @@
 # NoteTaker_Dark
 
-For hiarchy-based **note-taking** and **study guides** (ideal for students). Uses a **dark theme** and **Open Sans** for easy legibility. Also lists use **less indentation** and **custom line spacing** for better skimming.
+For hiarchy-based **note-taking** and **study guides** (ideal for students). Uses a **dark theme** and **Open Sans** for easy legibility. Also lists use **less indentation** and **custom line spacing** for better skimming. ![img](imgs/img.png)
 
 ## My note-taking style
 
